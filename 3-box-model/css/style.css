@@ -1,0 +1,26 @@
+h1 {
+    font-size: 3rem;
+    margin: .5rem;
+}
+h2 {
+    font-size: 1.5rem;
+    margin: .3rem;
+}
+p {
+    padding: 10px;
+}
+img {
+    margin: 10px;
+    border-radius: 10px;
+    border: 10px solid black;
+    box-sizing: border-box;
+}
+img, figcaption {
+    margin: 10px;
+}
+
+/*centering technique or so i'm told*/
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
